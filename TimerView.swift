@@ -8,7 +8,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-//        MainViewController()
         TimerView()
             .frame(width: 350, height: 200)
     }
